@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "stategraph": {
-      "command": "/Users/cbrown/Documents/PicoCluster/Apps/stategraph/target/release/stategraph-mcp",
+      "command": "/Users/cbrown/Documents/PicoCluster/Apps/stategraph/target/release/agentstategraph-mcp",
       "args": ["--path", "/Users/cbrown/Documents/PicoCluster/Apps/stategraph/stategraph-test.db"]
     }
   }
