@@ -1,0 +1,4 @@
+# PyO3 0.24.x doesn't support Python 3.14 yet.
+# Point it at 3.13 explicitly until we upgrade PyO3.
+[env]
+PYO3_PYTHON = "/opt/homebrew/bin/python3.13"
